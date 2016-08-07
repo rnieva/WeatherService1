@@ -6,4 +6,4 @@ Compares the temperature between two cities using a Web Service for get the weat
 
 Main Window
 <p>
-![alt tag](https://raw.github.com/rnieva/WeatherService/master/CaptureWeatherService1.png)
+![alt tag](https://raw.github.com/rnieva/WeatherService1/master/CaptureWeatherService1.png)
