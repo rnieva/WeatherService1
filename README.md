@@ -1,7 +1,7 @@
 # WeatherService1
-Compares the temperature between two cities using a Web Service for get the weather information.
+It´s a Web Service that compares the temperature between two cities using a Web Service for get the weather information.
 
-- Technical Features: SOAP Protocol, C#, XML, ASP.
+- Technical Features: ASP, .NET Framework 4.5.2, SOAP Protocol, C#, XML.
 
 
 Main Window
